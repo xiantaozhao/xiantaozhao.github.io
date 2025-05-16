@@ -50,7 +50,7 @@ interests:
   - Functional Data
   - Data Clustering
 
-# education:
+education:
 #   - area: PhD Artificial Intelligence
 #     institution: Stanford University
 #     date_start: 2016-01-01
